@@ -1,5 +1,5 @@
 # Huffman_Codec
 
-Huffman File Compression
-Miles Bagwell
-ECE 4680 Spring 2016
+* Huffman File Compression
+* Miles Bagwell
+* ECE 4680 Spring 2016
